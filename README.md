@@ -1,7 +1,7 @@
 
 # StackIt - A Minimal Q&A Forum
 
-![StackIt Screenshot](https://i.imgur.com/example.png) <!-- It's a good idea to replace this with an actual screenshot of your app -->
+ <!-- It's a good idea to replace this with an actual screenshot of your app -->
 
 StackIt is a minimal, user-friendly question-and-answer platform built with modern web technologies. It's designed to support collaborative learning and structured knowledge sharing, focusing on the core experience of asking and answering questions within a community.
 
